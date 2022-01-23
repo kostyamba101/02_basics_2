@@ -1,11 +1,5 @@
 fun main(args: Array<String>) {
-    var likes = 11
-    likesLocalization(likes)
-    likes = 3000
-    likesLocalization(likes)
-    likes = 32
-    likesLocalization(likes)
-    likes = 61
+    val likes = 11
     likesLocalization(likes)
 }
 
